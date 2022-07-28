@@ -1,4 +1,4 @@
-# vue+elementui+echarts+vue-router实现的管理平台
+# vue+elementui+echarts+vue-router实现的OPPO后台管理系统
 
 
 ###如何使用
